@@ -1,2 +1,2 @@
 # Weather App
-<img src = public/weatherappdemo.gif>
+<img src = weatherappdemo.gif>
