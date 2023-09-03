@@ -2,7 +2,7 @@
 <img src = weatherappdemo.gif>
 
 # Demo
-This project was built using HTML, CSS, and Javascript.
+This project was built using HTML, CSS, and JavaScript.
 
 How to use?
 1. Enter a city in the world
